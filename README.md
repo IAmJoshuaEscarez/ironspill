@@ -36,16 +36,16 @@ Electronic automation handles safety, fluid routing, and volumetric monitoring t
 Select a subsystem below to access official documentation, guides, and engineering schematics:
 
 * **[MARK LXXXV: Updated Documentation](https://docs.google.com/document/d/1vnpWTk1y4zddr_BgbKrFc2Xci1EIHBN9/edit?usp=sharing&ouid=107184543898886461189&rtpof=true&sd=true)**
-  Complete blueprints encompassing conceptual design through ISO evaluation standards.
+  Complete documentation of the entire system.
 
 * **[OPERATION MANUAL: System Guide](https://drive.google.com/file/d/124donzZ3W-ylivHNWVT0bv2F2x4H0uxS/view?usp=sharing)**
-  Deployment and execution instructions optimized for end-users and technicians.
+  Step by step instructions on how to operate the system.
 
 * **[NARRATIVE: Development Logs](https://drive.google.com/drive/folders/1FV_DKX2hfK0zrKAh-ho9xLOKhTMqVQG0?usp=sharing)**
   Individual project development narratives and chronological progress logs.
 
 * **[CIRCUITRY: Schematic Diagram](https://drive.google.com/file/d/1-mmfR8PQmrm2JWBcS-FNmuH-DSIFj7XZ/view?usp=sharing)**
-  Hardware engineering data, including ESP32 MCU integration and sensor array mappings.
+  Diagram of the entire system.
 
 ---
 
