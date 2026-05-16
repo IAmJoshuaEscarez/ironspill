@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ironimages/ironman.webp" alt="Iron Man Mask" width="140" />
+  <img src="assets/ironimages/ironman.webp" alt="Iron Man Mask" width="150" />
 </p>
 
 <h1 align="center">IRONSPILL</h1>
