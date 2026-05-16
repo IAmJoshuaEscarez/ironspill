@@ -1,9 +1,20 @@
-![Iron Man Mask](assets/ironimages/ironman.webp)
+<p align="center">
+  <img src="assets/ironimages/ironman.webp" alt="Iron Man Mask" width="220" />
+</p>
 
-# IRONSPILL
+<h1 align="center">IRONSPILL</h1>
+
+<p align="center"><strong>Automated IoT Crude Oil-Water Separator</strong></p>
+
+<p align="center">
+  <a href="#project-abstract--purpose">Overview</a> |
+  <a href="#system-logic--engineering-principles">Engineering</a> |
+  <a href="#core-subsystems--documentation">Documentation</a> |
+  <a href="#project-roster">Team</a>
+</p>
 
 ## Project Abstract & Purpose
-The IronSpill system is an automated, IoT-enabled **CrudOil-Water Separator** engineered for efficient, cost-effective, and low-maintenance wastewater treatment. The architecture strictly segregates physical fluid dynamics from electronic automation to maximize operational reliability and prevent component fouling.
+The IronSpill system is an automated, IoT-enabled **Crude Oil-Water Separator** engineered for efficient, cost-effective, and low-maintenance wastewater treatment. The architecture strictly segregates physical fluid dynamics from electronic automation to maximize operational reliability and prevent component fouling.
 
 ### System Logic & Engineering Principles
 
