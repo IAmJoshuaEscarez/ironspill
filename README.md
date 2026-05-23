@@ -35,7 +35,7 @@ Electronic automation handles safety, fluid routing, and volumetric monitoring t
 
 Select a subsystem below to access official documentation, guides, and engineering schematics:
 
-* **[MARK LXXXV: Updated Documentation](https://docs.google.com/document/d/1vnpWTk1y4zddr_BgbKrFc2Xci1EIHBN9/edit?usp=sharing&ouid=107184543898886461189&rtpof=true&sd=true)**
+* **[MARK LXXXV: Updated Documentation](https://docs.google.com/document/d/1Hl0Dk3h6-xCPUo4hZ-lAzGjqv2ArsG2S/edit?usp=sharing&ouid=107184543898886461189&rtpof=true&sd=true)**
   Complete documentation of the entire system.
 
 * **[OPERATION MANUAL: System Guide](https://drive.google.com/file/d/124donzZ3W-ylivHNWVT0bv2F2x4H0uxS/view?usp=sharing)**
