@@ -57,7 +57,7 @@ Select a subsystem below to access official documentation, guides, and engineeri
 
 ### Leadership & Advisory
 * **Project Lead:** John Joshua Manalo Escarez
-* **Research Adviser:** Christian Cabrera (XianCa)
+* **Research Adviser:** Sir Christian Cabrera (Xian)
 
 ### Development Team
 * Carl Ivan Alcantara
