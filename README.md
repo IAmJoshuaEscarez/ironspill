@@ -38,7 +38,7 @@ Select a subsystem below to access official documentation, guides, and engineeri
 * **[MARK LXXXV: Updated Documentation](https://docs.google.com/document/d/1Hl0Dk3h6-xCPUo4hZ-lAzGjqv2ArsG2S/edit?usp=sharing&ouid=107184543898886461189&rtpof=true&sd=true)**
   Complete documentation of the entire system.
 
-* **[OPERATION MANUAL: System Guide](https://drive.google.com/file/d/124donzZ3W-ylivHNWVT0bv2F2x4H0uxS/view?usp=sharing)**
+* **[OPERATION MANUAL: System Guide](https://docs.google.com/document/d/16vuL9RGgB1yHbuK-SI81GJ0HPbmEZgZs/edit?usp=sharing&ouid=107184543898886461189&rtpof=true&sd=true)**
   Step by step instructions on how to operate the system.
 
 * **[NARRATIVE: Development Logs](https://drive.google.com/drive/folders/1FV_DKX2hfK0zrKAh-ho9xLOKhTMqVQG0?usp=sharing)**
