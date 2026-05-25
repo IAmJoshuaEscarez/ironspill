@@ -14,7 +14,7 @@
 </p>
 
 ## Project Abstract & Purpose
-The IronSpill system is an automated, IoT-enabled **Crude Oil-Water Separator** engineered for efficient, cost-effective, and low-maintenance wastewater treatment. The architecture strictly segregates physical fluid dynamics from electronic automation to maximize operational reliability and prevent component fouling.
+The IronSpill system is an automated, IoT-enabled **Crude Oil-Water Separator** engineered for efficient, cost-effective, and low-maintenance water waste treatment. The architecture strictly segregates physical fluid dynamics from electronic automation to maximize operational reliability and prevent component fouling.
 
 ### System Logic & Engineering Principles
 
